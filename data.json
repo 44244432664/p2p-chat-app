@@ -1,0 +1,33 @@
+[
+	{
+		"username": "Regis",
+		"friends": [
+			"Arthur",
+			"Caera"		
+		]
+	},
+
+	{
+		"username": "Arthur",
+		"friends": [
+			"Regis",
+			"Caera",
+			"Tessia"
+		]
+	},
+
+	{
+		"username": "Tessia",
+		"friends": [
+			"Arthur"
+		]
+	},
+
+	{
+		"username": "Caera",
+		"friends": [
+			"Regis",
+			"Arthur"
+		]
+	}
+]
